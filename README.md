@@ -4,5 +4,5 @@
 
 **DESCRIÇÃO DO PROJETO**: O projeto trata-se de um minigame de pontuação, criado atráves da linguagem de programação javascript.
 
-**LINK:**https://editor.p5js.org/marianoronha1533/sketches/nrMvOczpu
+**LINK:** https://editor.p5js.org/marianoronha1533/sketches/nrMvOczpu
 
